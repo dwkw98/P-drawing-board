@@ -1,0 +1,1 @@
+It is a drawing software that uses Python and Kivy. It allows you to draw on a black canvas, draw with images, and also save your work.
