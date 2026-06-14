@@ -326,6 +326,3 @@ class DrawingApp(App):
 
 if __name__ == '__main__':
     DrawingApp().run()
-除了kivy
-py3
-还用了啥
