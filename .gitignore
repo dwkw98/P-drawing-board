@@ -1,0 +1,20 @@
+# 编译产物
+*.apk
+*.aab
+*.keystore
+*.jks
+bin/
+.buildozer/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Android
+android-sdk/
+android-ndk/
+
+# IDE
+.idea/
+.vscode/
+*.swp
